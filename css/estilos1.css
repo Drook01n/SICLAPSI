@@ -1,0 +1,44 @@
+
+
+.button{
+    border: none;
+    width: 60%;
+    color: white;
+    font-size: 14px;
+    background:  #00EE76;
+    padding: 15px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.button:hover{
+    background: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

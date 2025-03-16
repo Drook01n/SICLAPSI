@@ -1,0 +1,110 @@
+#fecha{
+font-size:10px;
+color:#FF0000;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+#menu a{ 
+font-size:10px;
+color:red;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.Estilo1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000000;
+	margin-bottom:0px;
+	margin-top:0px;
+}
+.Estilo2 {	
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000000;
+	margin-bottom:0px;
+	margin-top:0px;
+
+}
+.Estilo3 {	
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000000;
+	margin-bottom:0px;
+	margin-top:0px;
+	font-size:12px;
+
+}
+.tabla {
+	border: 1px solid #CCCCCC;
+	border:1px,1px;	 
+	padding-left: 4px; 
+	padding-right: 4px; 
+	padding-top: 1px; 
+	padding-bottom: 1px;
+}
+.textTabla {	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #cccccc;
+	font-size:10px;
+	}
+.textTablaDato {	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size:10px;
+	text-align:justify;
+}
+
+.tabla { background:#FFFFFF;
+ border:1px solid  #CCCCCC;
+ border-collapse:collapse;
+
+ color:#fff;
+ font:normal 12px verdana, arial, helvetica, sans-serif;
+}
+.tabla th { background:url(../imagen/menuSup.jpg);
+ padding:.4em;
+ color:#666666;
+}
+.tabla td { color:#666666;
+padding:.4em;
+ font-size:10;
+ border:1px solid #cccccc;
+
+}
+
+.tabla tr { border:1px dotted gray;
+}
+.tabla thead th, tfoot th { background:#D3E4E5;
+ color:#CDB5CD;
+padding:3px 10px 3px 10px;
+ text-transform:uppercase;
+}
+.tabla tbody td a { color:#363636;
+ text-decoration:none;
+}
+.tabla tbody td a:visited { color:gray;
+ text-decoration:line-through;
+}
+.tabla tbody td a:hover { text-decoration:underline;
+}
+.tabla tbody th a { color:#363636;
+ font-weight:normal;
+ text-decoration:none;
+}
+.tabla tbody th a:hover { color:#363636;
+}
+
+.tabla tbody td+td+td+td a:visited { background-image:url('bullet_white.png');
+ background-position:left center;
+ background-repeat:no-repeat;
+}
+.tabla tbody th, tbody td {
+ vertical-align:top;
+}
+.tabla tfoot td { background:#5C443A;
+ color:#FFFFFF;
+ padding-top:3px;
+}
+.tabla .odd { background:#fff;
+}
+.tabla tbody tr:hover { background:#99BCBF;
+ border:1px solid #03476F;
+ color:#000000;
+}
